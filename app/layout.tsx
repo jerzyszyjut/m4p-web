@@ -12,9 +12,12 @@ const lato = Lato({
 
 export const metadata: Metadata = {
   title: 'Minecraft4Politics - Najlepszy serwer polityczny w Polsce',
-  description: `Symulacja polityczno-gospodarcza oparta na serwerze Minecraft której świat został podzielony na cztery państwa których ideologie są zgodne z kompasem politycznym.   
-
-Link do discorda: https://discord.gg/minecraft4politics-734417514934698065`,
+  description: `Symulacja polityczno-gospodarcza oparta na serwerze Minecraft której świat został podzielony na cztery państwa których ideologie są zgodne z kompasem politycznym.`,
+  openGraph: {
+    images: [
+        'https://cdn.discordapp.com/attachments/1105284658566025377/1109814281110818816/image.png'
+    ],
+  }
 }
 
 export default function RootLayout({
