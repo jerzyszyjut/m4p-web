@@ -1,4 +1,4 @@
-import { FaPhone, FaEnvelope, FaFacebook, FaYoutube, FaInstagram, FaTiktok, FaTwitter, FaDiscord } from 'react-icons/fa'
+import { FaPhone, FaEnvelope, FaFacebook, FaYoutube, FaInstagram, FaTiktok, FaTwitter, FaDiscord, FaPatreon } from 'react-icons/fa'
 import styles from './Footer.module.scss';
 
 

@@ -13,6 +13,10 @@ const links = [
         href: '/',
         label: 'Strona główna',
     },
+    {
+        href: 'https://zrzutka.pl/2jydue',
+        label: 'Wesprzyj nas',
+    }
 ];
 
 type NavigationBarProps = {
