@@ -7,7 +7,7 @@ export default function Home() {
   return (
     <main className="flex flex-col items-center justify-between">
       <div className='w-full flex flex-col items-center justify-center' style={{
-        minHeight: '800px',
+        minHeight: '80vh',
         overflow: 'hidden',
       }}>
         <ShadedBackgroundImage image={ZielonyParlament} opacity={0.6}/>
