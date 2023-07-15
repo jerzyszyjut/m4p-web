@@ -10,7 +10,7 @@ const Hero = () => {
 
   return (
     <>
-      <h1 className='text-5xl'>Wystartował najlepszy serwer politczny Minecraft w Polsce</h1>
+      <h1 className='text-5xl text-center'>Wystartował najlepszy serwer politczny Minecraft w Polsce</h1>
       <button className='flex items-center justify-center p-4 text-2xl bg-tertiary m-8 rounded' onClick={() => redirectToDiscord()}>
         <FaDiscord />
         <span className='px-4'>

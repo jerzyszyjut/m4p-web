@@ -11,6 +11,10 @@ module.exports = {
       'secondary': '#5C3D2E',
       'tertiary': '#B85C38',
       'quaternary': '#E0C097',
+      'red': '#FF0000',
+      'blue': '#0000FF',
+      'green': '#00FF00',
+      'purple': '#800080',
     }
   },
   plugins: [],
